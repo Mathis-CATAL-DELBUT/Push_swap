@@ -6,3 +6,5 @@ Score : 100/100
 For push_swap_visualizer (o-reo Viewer): 
 - Go to Tripouille's ReadMe: https://github.com/o-reo/push_swap_visualizer/blob/master/README.md
 - ⚠️ You have to add the include string in the includes/queues.h file ⚠️
+
+Correction subject : https://github.com/mharriso/school21-checklists/blob/master/ng_1_pusg_swap.pdf
